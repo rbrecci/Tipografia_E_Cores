@@ -1,1 +1,1 @@
- Criando um guia de tipografia e cores como modelo para futuros sites. Através do site figma listei e organizei as fontes que poderiam ser utilizadas, as cores com suas respectivas nomenclaturas e objetivos de uso.
+ Criando um guia de tipografia e cores como protótipo para futuros sites. Através do site figma listei e organizei as fontes que poderiam ser utilizadas, as cores com suas respectivas nomenclaturas e objetivos de uso.
